@@ -6,15 +6,11 @@ This repo holds the code for the backend of the Bridge app. For the frontend, pl
 
 ## Getting Started
 
-Just looking around? Check out [app.js](https://github.com/Project-Eowyn/bridge-api/blob/master/app.js) and/or [api-spec.txt](https://github.com/Project-Eowyn/bridge-api/blob/master/api_spec.txt)!
+Just looking around? Check out [app.js](https://github.com/Project-Eowyn/bridge-api/blob/master/app.js) and/or [api-spec.txt](https://github.com/Project-Eowyn/bridge-api/blob/master/api_spec.txt)! Just want a guided introdution? Message Sean on slack or email!
 
----
+### Mac/Linux Example
 
-Want a guided introdution? Message Sean on slack or email!
-
----
-
-To change how the app functions, see a high-level example below.
+To change how the app functions, see below.
 
 1. Create a directory for your code repos to live in. `mkdir ~/code/`
 2. Clone this repo into that directory. `git clone https://github.com/Project-Eowyn/bridge-api.git`
@@ -23,10 +19,7 @@ To change how the app functions, see a high-level example below.
 5. View the test screen.
 6. Modify test screen.
 7. View your changes.
+8. You've now done more coding than 90% of people.
 
-TODO: Add git ettiquite links.
-
----
-
-To get an idea of what needs to be done, you can check out the issues tab at the top of the github page.
+>To get an idea of what needs to be done, you can check out the issues tab at the top of the github page.
 
